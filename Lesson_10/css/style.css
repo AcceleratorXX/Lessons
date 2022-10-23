@@ -51,14 +51,14 @@ body {
 	color: #1E212C;
 }
 blockquote {
-	background: url(img/icons/quote.svg) 0 0 no-repeat;
+	background: url(../img/icons/quote.svg) 0 0 no-repeat;
 }
 blockquote p {
 	padding-left: 58px;
 }
 
 .text__list li::before{
-	background: url(img/icons/list.svg) 0 0 no-repeat;
+	background: url(../img/icons/list.svg) 0 0 no-repeat;
 	content: "";
 	display: inline-block;
 	height: 16px;
@@ -106,7 +106,7 @@ blockquote p {
 	margin-right: 12px;
 }
 .facebook {
-	background: url(img/icons/facebook.svg) 0 0 no-repeat;
+	background: url(../img/icons/facebook.svg) 0 0 no-repeat;
 	display: inline-block;	
 }
 .facebook:hover {
@@ -115,7 +115,7 @@ blockquote p {
 	transition: transform 0.5s; 
 }
 .twitter {
-	background: url(img/icons/twitter.svg) 0 0 no-repeat;
+	background: url(../img/icons/twitter.svg) 0 0 no-repeat;
 	display: inline-block;
 }
 .twitter:hover {
@@ -124,7 +124,7 @@ blockquote p {
 	transition: transform 0.5s; 
 }
 .linkedin {
-	background: url(img/icons/linkedin.svg) 0 0 no-repeat;
+	background: url(../img/icons/linkedin.svg) 0 0 no-repeat;
 	display: inline-block;
 }
 .linkedin:hover {
@@ -133,7 +133,7 @@ blockquote p {
 	transition: transform 0.5s; 
 }
 .instagram {
-	background: url(img/icons/Instagram.svg) 0 0 no-repeat;
+	background: url(../img/icons/Instagram.svg) 0 0 no-repeat;
 	display: inline-block;
 }
 .instagram:hover {
@@ -179,7 +179,7 @@ blockquote p {
 }
 
 .formbutton {
-	background: url(img/icons/search.svg) 0 0 no-repeat;	
+	background: url../(img/icons/search.svg) 0 0 no-repeat;	
 	height: 15px;
 	width: 15px;
 	display: inline-block;
@@ -263,7 +263,7 @@ blockquote p {
 }
 .trend__date::before{
 	content: "";
-	background: url(img/icons/Calendar.svg) 0 0 no-repeat;	
+	background: url(../img/icons/Calendar.svg) 0 0 no-repeat;	
 	display: inline-block;
 	height: 16px;
 	width: 16px;
