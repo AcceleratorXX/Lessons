@@ -179,7 +179,7 @@ blockquote p {
 }
 
 .formbutton {
-	background: url../(img/icons/search.svg) 0 0 no-repeat;	
+	background: url(../img/icons/search.svg) 0 0 no-repeat;	
 	height: 15px;
 	width: 15px;
 	display: inline-block;
