@@ -244,13 +244,16 @@ blockquote p {
 .trend  {
 	display: flex;
 	align-items: flex-start;
-	transition: transform 0.5s; 
+	transition: all 0.5s; 
 	border-radius: 5px;
 }
 .trend:hover {
 	box-shadow: 5px 5px 2px 1px rgba(255, 205, 210, 1);
 	transform: scale(1.1, 1.1);
-	transition: transform 0.5s; 
+	transition: all 0.5s; 
+}
+.trend {
+	transition: all 0.5s;
 }
 .trend img {
 	margin-right: 20px;
